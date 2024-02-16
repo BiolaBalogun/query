@@ -29,4 +29,4 @@ ALTER TABLE student ADD gpa DECIMAL(3, 2);
 ALTER TABLE student DROP gpa;
 
 DELETE FROM student
-WHERE student_id = 5
+WHERE student_id = 9
